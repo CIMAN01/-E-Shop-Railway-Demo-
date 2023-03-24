@@ -18,4 +18,4 @@
 
 #### The app is currently hosted on _Railway_ and can be demo-ed by visiting the link below:
 
-#### [Link to demo E-shop App](https://web-production-a195.up.railway.app/)   
+#### [Link to demo E-shop App](https://web-production-51f0.up.railway.app/)   
